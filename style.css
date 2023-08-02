@@ -1,0 +1,289 @@
+* {
+    box-sizing: border-box;
+}
+.x {
+    color: yellowgreen;
+}
+.plar,.p {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.op {
+    color: rgba(255, 255, 255, 0.535);
+}
+.pic {
+    width: 25px;
+}
+.tuy {
+    transform: translateY(25px);
+}
+.engkatta{
+    background-color: black;
+    padding: 50px;
+}
+.ka {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn {
+    background-color: yellowgreen;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.icon {
+    color: silver;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.hah{
+    margin: 0;
+    color: silver;
+    font-size: 18px;
+}
+.dfd {
+    color: white;
+}
+.dd {
+    font-size: 14px;
+}
+.fg {
+    font-size:16px;
+}
+.ip {
+    background-image: url(Ellipse\ 2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+}
+.katta {
+    background-color: black;
+}
+.olo {
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content: space-between;
+}
+.lo {
+    width: 30%;
+}
+.lp {
+    width: 25%;
+    flex-shrink: 0;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    background-color: blue;
+}
+.lpl {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.pl {
+    text-align: justify;
+}
+.lk {
+    width: 100%;
+    color: white;
+    background-color: rgb(45, 45, 73);
+    padding: 50px 150px;
+}
+.po {
+    color: silver;
+    text-align: justify;
+}
+.ahf {
+    color: white;
+    padding: 20px;
+}
+.klk {
+    background-color:rgb(45, 45, 73) ;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.rtr {
+    color: silver;
+    text-align: justify;
+}
+.btn {
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: lime;
+} 
+.ll {
+    width: 20%;
+}
+.hgh {
+    padding: 20px;
+    color: white;
+}
+.li {
+    text-align: left;
+    color: silver;
+}
+.il, .iol {
+    color: gray;
+}
+.div {
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    background-color:rgb(45, 45, 73) ;
+}
+.divlar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.zxc {
+    color: white;
+    background-color: rgb(45, 45, 73);
+    padding: 20px;
+}
+.gf {
+    font-size: 30px;
+}
+.vb {
+    color: dodgerblue;
+    background-color: white;
+    border-radius: 50%;
+}
+.bv {
+    color: cornflowerblue;
+    background-color: white;
+    border-radius: 5px;
+}
+.ins {
+    color: yellow;
+    background-color: white;
+    border-radius: 5px;
+}
+.lll {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.ll {
+    width: 30%;
+}
+.fc {
+    color: dodgerblue;
+    background-color: white;
+    border-radius: 50%;
+}
+.ase {
+    color: silver;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.span {
+    display:inline-block;
+}
+.m {
+    background: #6A7395;
+    border: none;
+    border-radius: 3px;
+    padding: 6px 50px;
+    color: white;
+}
+.n {
+    background: #6A9590;
+    border: none;
+    border-radius: 3px;
+    padding: 6px 50px;
+    color: white;
+}
+.b {
+    background-color:#95936A;
+    border: none;
+    border-radius: 3px;
+    padding: 6px 50px;
+    color: white;
+}
+.tar {
+    margin: 0;
+    color: silver;
+}
+.hu {
+    margin: 0;
+}
+@media(max-width:1070px){
+    .lp {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+@media(max-width:1060px){
+    .ll, .imgs {
+        width: 100%;
+    }
+}
+@media(max-width:990px){
+    .lo{
+        width: 100%;
+    }
+}
+@media(max-width:924px){
+    .engkatta {
+        padding: 0;
+    }
+}
+@media(max-width:910px){
+    .iv {
+        width: 100%;
+    }
+    .ul {
+        max-width: 250px;
+        margin: auto;
+    }
+}
+@media(max-width:850px){
+    .plar, .rasm, .p {
+        width: 100%;
+    }
+    .lk {
+        padding: 0;
+    }
+}
+@media(max-width:756px){
+    .as {
+        width: 100%;
+    }
+}
+@media(max-width:663px){
+    .div {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+@media(max-width:621px){
+    .tuy {
+        width: 100%;
+    }
+    .zxc {
+        padding: 0;
+        width: 100%;
+    }
+}
+@media(max-width:579px){
+    .ll {
+        width: 100%;
+    }
+}
+@media(max-width:380px){
+    .ann {
+        width: 100%;
+    }
+}
